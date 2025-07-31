@@ -1,0 +1,30 @@
+Overview:
+This dashboard is part of a PwC Job Simulation focused on analyzing call centre performance. It allows filtering by agent and issue topic, enabling dynamic and targeted insights.
+
+KPI Cards (Top Center):
+Total Calls: 5,000 – shows the overall volume of customer interactions.
+
+Unanswered Calls: 946 – indicates a gap in service with nearly one in five calls missed.
+
+Answered Calls: 4,054 – about 81% of calls were answered.
+
+Average Satisfaction Rate: 3.40 – shown against a target of 5 on the satisfaction gauge.
+
+Average Speed: 67.52 seconds – the time it takes on average to answer a call.
+
+Average Handle Time: 3.75 minutes – the typical duration an agent spends on a call.
+
+Trend Bar Chart (Center):
+Displays monthly trends in answered and unanswered calls from January to March. January shows the highest total volume, with a decline toward March.
+
+Pie Chart – Resolved by Agent (Top Right):
+Shows how many issues each agent resolved.
+Jim and Martha resolved the highest number of issues (around 13% each), followed by Greg, Joe, and others. The resolution count is fairly evenly distributed, suggesting balanced workloads.
+
+Pie Chart – Resolved by Topic (Bottom Left):
+Breaks down issues by category.
+The most frequent topics include Contract Related (20.44%), Admin Support (20.38%), and Payment Related (20.14%). The even distribution implies a variety of common customer issues.
+
+Agent Performance Table (Bottom Center):
+Presents detailed metrics per agent, including handle time, satisfaction rate, talk duration, speed, and number of answered and unanswered calls.
+For example, Martha has the highest satisfaction rate (3.47) with slightly below-average handle time, making her a top-performing agent in terms of customer experience.
